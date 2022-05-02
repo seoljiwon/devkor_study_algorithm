@@ -1,1 +1,1 @@
-devkor_study_algorithm
+study_algorithm
